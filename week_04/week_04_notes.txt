@@ -1,0 +1,1 @@
+추가 노트: useradd와 adduser의 차이점 정리.
